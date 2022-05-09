@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: César Castillo-García # Website name
-baseURL: 'https://github.com/Ccastillo92/ccastillog.github.io' # Website URL
+baseURL: 'https://ccastillo92.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -23,7 +23,8 @@ module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
-   
+    #- path: https://github.com/wowchemy/wowchemy-hugo-themes/tree/v5.5.0/starters
+
 ############################
 ## ADVANCED
 ############################
